@@ -44,7 +44,7 @@ I'm Rishit Gondaliya, a passionate Web Developer.
 
 ## 🎨 Portfolio
 
-Check out my portfolio at [Your Portfolio Link](https://yourportfolio.com).
+Check out my portfolio at (https://github.com/rishitgondaliya/portfolio)
 
 ---
 
