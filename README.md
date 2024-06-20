@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on open source web development projects & innovative web applications.
-- 📫 How to reach me mrrishitgondaliya@gmail.com
+- 📫 How to reach me: mrrishitgondaliya@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love watching cartoon 👻
 
