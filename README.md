@@ -36,7 +36,7 @@
       </p>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github.com/rishitgondaliya/rishitgondaliya/assets/143270593/33174567-64ea-437c-96e8-19775dbe74a7" alt="webdev" width="800" height="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="https://github.com/rishitgondaliya/rishitgondaliya/assets/143270593/33174567-64ea-437c-96e8-19775dbe74a7" alt="webdev" width="800" height="260" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <p style="text-align: center; margin-top: 20px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishitgondaliya&show_icons=true&locale=en" alt="rishitgondaliya" style="margin-top: 20px;" /></p>
     </td>
   </tr>
