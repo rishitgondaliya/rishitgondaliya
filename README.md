@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishit Gondaliya</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<table>
+<table border: "none">
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <div align="left" style="font-size: 16px; line-height: 1.5;">
