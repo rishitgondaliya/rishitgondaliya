@@ -60,7 +60,7 @@
             <td class="image-column">
                 <img alt="Coding" width="600" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
                 <br/>
-                <img src="https://github-readme-stats.vercel.app/api?username=rishitgondaliya&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt=" 📊 Rishit's GitHub Stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=rishitgondaliya&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="📊 Rishit's GitHub Stats">
             </td>
         </tr>
 </table>
