@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&duration=4000&pause=800&center=true&vCenter=true&random=false&width=435&lines=A+Passionate+Web+Developer+from+India.;Passionate+about+Full+Stack+Web+Development;Interested+in+Java;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
-<img align="right" alt="Coding" width="400" height="300" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
 
 - 🌱 I’m currently learning <strong>MERN stack.</strong><br>
 - 👯 I’m looking to collaborate on <strong>open source web development projects & innovative web applications.</strong><br>
