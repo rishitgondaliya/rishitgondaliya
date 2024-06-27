@@ -1,36 +1,26 @@
-
 <h1 align="center">Hi 👋, I'm Rishit Gondaliya</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&duration=4000&pause=800&center=true&vCenter=true&random=false&width=435&lines=A+Passionate+Web+Developer+from+India.;Passionate+about+Full+Stack+Web+Development;Interested+in+Java;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
 
-- 🌱 I’m currently learning **`Spring & Spring Boot`**
-
-- 📫 How to reach me : **yashkathesia@gmail.com**
+- 🌱 I’m currently learning <strong>MERN stack.</strong><br>
+- 👯 I’m looking to collaborate on <strong>open source web development projects & innovative web applications.</strong><br>
+- 📫 How to reach me: <strong><a href="mailto:mrrishitgondaliya@gmail.com">mrrishitgondaliya@gmail.com</a></strong><br>
+- ⚡ Fun fact: <strong>I love watching cartoon 👻.</strong>
 
 ---
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-    <!-- Twitter -->
-    <a href="https://twitter.com/YKathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Yash Kathesia" height="30" width="40" /></a>
     <!-- Linkedin -->
-    <a href="https://www.linkedin.com/in/yash-kathesia-5245601a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-    <!-- Stackoverflow -->
-    <a href="https://stackoverflow.com/users/24059744/yash-kathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-    <!-- Kaggle -->
-    <a href="https://www.kaggle.com/yashkathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/rishit-gondaliya-1b0b20250" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Rishit Gondaliya" height="30" width="40" /></a>
+    <!-- Twitter -->
+    <a href="https://twitter.com/rishitgondaliya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Rishit Gondaliya" height="30" width="40" /></a>
+    <!-- Instagram -->
+    <a href="https://instagram.com/mr..rishit..gondaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr..rishit._.gondaliya" height="30" width="40" style="margin-right: 10px;" /></a>
     <!-- CodeChef -->
-    <a href="https://www.codechef.com/users/yashkathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-    <!-- Hackerrank -->
-    <a href="https://www.hackerrank.com/profile/yash_kathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-    <!-- Codeforces -->
-    <a href="https://codeforces.com/profile/yash_kathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-    <!-- Leetcode -->
-    <a href="https://leetcode.com/yashkathesia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashkathesia" height="30" width="40" /></a>
-    <!-- Geeksforgeeks -->
-    <a href="https://auth.geeksforgeeks.org/user/yashkathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/r_j_gondaliya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Rishit Gondaliya" height="30" width="40" /></a>
 </p>
 
 ---
@@ -43,28 +33,16 @@
     <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
     <!-- Java -->
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <!-- Python -->
-    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
     <!-- HTML -->
     <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
     <!-- CSS -->
     <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-    <!-- Bootstrap -->
-    <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
     <!-- JavaScript -->
     <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <br /> <br />
-    <!-- MSSQL -->
-    <img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+    <!-- Bootstrap -->
+    <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
     <!-- MySQL -->    
     <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <!-- Oracle -->
-    <img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-    <!-- PHP -->
-    <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <!-- TypeScript -->
-    <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />    
-    <!-- Unity Game Engine -->
-    <img align="left" alt="Unity Game Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
     <!-- Git -->
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <!-- GitHub -->
@@ -77,5 +55,5 @@
 
 <br /> 
 
-| <a href="https://github.com/yash-kathesia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-kathesia&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt=" 📊 Yash's GitHub Stats" /></a> | <a href="https://github.com/yash-kathesia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-kathesia&layout=compact&theme=swift&hide_border=true" /></a> |
+| <a href="https://github.com/rishitgondaliya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishitgondaliya&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt=" 📊 Rishit's GitHub Stats" /></a> | <a href="https://github.com/rishitgondaliya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitgondaliya&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
