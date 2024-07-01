@@ -55,5 +55,5 @@
 
 <br /> 
 
-| <a href="https://github.com/rishitgondaliya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishitgondaliya&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt=" 📊 Rishit's GitHub Stats" /></a> | <a href="https://github.com/rishitgondaliya"><img align="center" src="" /></a> |
+| <a href="https://github.com/rishitgondaliya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishitgondaliya&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt=" 📊 Rishit's GitHub Stats" /></a> | <a href="https://github.com/rishitgondaliya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitgondaliya&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
