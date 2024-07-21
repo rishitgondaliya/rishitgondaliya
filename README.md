@@ -55,5 +55,34 @@
 
 <br /> 
 
-| <a href="https://github.com/rishitgondaliya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishitgondaliya&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt=" 📊 Rishit's GitHub Stats" /></a> | <a href="https://github.com/rishitgondaliya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitgondaliya&layout=compact&theme=swift&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+<table align="center">
+  <tr>
+    <td>
+      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishitgondaliya&show_icons=true&locale=en&layout=compact" alt="rishitgondaliya" /></p>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/marketplace/actions/auto-assign-pr-and-issues"><img src="https://github-profile-trophy.vercel.app/?username=rishitgondaliya&row=3&column=3&theme=onedark" alt="Rishit's stats" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <a href="https://github.com/rishitgondaliya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishitgondaliya&show_icons=true&theme=radical" alt="Rishit's GitHub stats" /></a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/rishitgondaliya"><img align="center" src="https://streak-stats.demolab.com?user=rishitgondaliya&theme=radical" alt="GitHub Streak" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<p align = "center">
+  
+[![Rishit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishitgondaliya&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/rishitgondaliya)
+  
+</p>
