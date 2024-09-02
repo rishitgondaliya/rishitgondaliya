@@ -25,8 +25,8 @@
   </a>
 
   <!-- Instagram Badge -->
-  <a href="https://www.instagram.com/mr.rishit.gondaliya/" target="_blank">
-    <img src="https://img.shields.io/badge/-mr.rishit.gondaliya-D7008A?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
+  <a href="https://www.instagram.com/mr._.rishit._.gondaliya/" target="_blank">
+    <img src="https://img.shields.io/badge/-mr._.rishit._.gondaliya-D7008A?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
 
   <!-- CodeChef Badge -->
