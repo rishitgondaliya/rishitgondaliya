@@ -13,23 +13,27 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-
-<!-- LinkedIn Badge -->
-<a href="https://www.linkedin.com/in/rishit-gondaliya-1b0b20250/" target="_blank">
+  <div style="display: flex; align-items: center; gap: 10px;">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/rishit-gondaliya-1b0b20250/" target="_blank">
     <img src="https://img.shields.io/badge/-Rishit%20Gondaliya-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+  </a>
 
-<!-- Twitter Badge -->
-<a href="https://twitter.com/rishitgondaliya" target="_blank">
-    <img src="https://img.shields.io/badge/-rishitgondaliya-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge">
-</a>
+  <!-- Twitter Badge -->
+  <a href="https://twitter.com/rishitgondaliya" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-rishitgondaliya-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
 
-<!-- Instagram Badge -->
-[![Instagram Badge](https://img.shields.io/badge/-mr.rishit.gondaliya-D7008A?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mr.rishit.gondaliya/)](https://www.instagram.com/mr.rishit.gondaliya/)
+  <!-- Instagram Badge -->
+  <a href="https://www.instagram.com/mr.rishit.gondaliya/" target="_blank">
+    <img src="https://img.shields.io/badge/-mr.rishit.gondaliya-D7008A?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
 
-<!-- CodeChef Badge -->
-[![CodeChef Badge](https://img.shields.io/badge/-r_j_gondaliya-5B4638?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/r_j_gondaliya)](https://www.codechef.com/users/r_j_gondaliya)
-
+  <!-- CodeChef Badge -->
+  <a href="https://www.codechef.com/users/r_j_gondaliya" target="_blank">
+    <img src="https://img.shields.io/badge/-r__j__gondaliya-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef Badge">
+  </a>
+</div>
 </p>
 
 ---
