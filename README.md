@@ -13,14 +13,23 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-    <!-- Linkedin -->
-    <a href="https://www.linkedin.com/in/rishit-gondaliya-1b0b20250" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Rishit Gondaliya" height="30" width="40" /></a>
-    <!-- Twitter -->
-    <a href="https://twitter.com/rishitgondaliya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Rishit Gondaliya" height="30" width="40" /></a>
-    <!-- Instagram -->
-    <a href="https://instagram.com/mr..rishit..gondaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr..rishit._.gondaliya" height="30" width="40" style="margin-right: 10px;" /></a>
-    <!-- CodeChef -->
-    <a href="https://www.codechef.com/users/r_j_gondaliya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Rishit Gondaliya" height="30" width="40" /></a>
+
+<!-- LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/rishit-gondaliya-1b0b20250/" target="_blank">
+    <img src="https://img.shields.io/badge/-Rishit%20Gondaliya-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
+<!-- Twitter Badge -->
+<a href="https://twitter.com/rishitgondaliya" target="_blank">
+    <img src="https://img.shields.io/badge/-rishitgondaliya-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge">
+</a>
+
+<!-- Instagram Badge -->
+[![Instagram Badge](https://img.shields.io/badge/-mr.rishit.gondaliya-D7008A?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mr.rishit.gondaliya/)](https://www.instagram.com/mr.rishit.gondaliya/)
+
+<!-- CodeChef Badge -->
+[![CodeChef Badge](https://img.shields.io/badge/-r_j_gondaliya-5B4638?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/r_j_gondaliya)](https://www.codechef.com/users/r_j_gondaliya)
+
 </p>
 
 ---
