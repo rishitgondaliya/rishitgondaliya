@@ -33,6 +33,12 @@
   <a href="https://www.codechef.com/users/r_j_gondaliya" target="_blank">
     <img src="https://img.shields.io/badge/-r__j__gondaliya-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef Badge">
   </a>
+
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/u/rishit_gondaliya/" target="_blank">
+    <img src="https://img.shields.io/badge/-rishit__gondaliya-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Badge">
+  </a>
+
 </div>
 </p>
 
